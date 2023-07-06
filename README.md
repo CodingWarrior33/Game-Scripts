@@ -28,20 +28,26 @@ git clone https://github.com/CodingWarrior33/Game-Scripts.git
 **Here is a list of all the games that have been developed as team projects :**
 
 ### A2A Flyers 
+<img width="432" alt="A2A" src="https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/efc35fd4-0881-4691-81fc-eb39c8e4984c">
+
 
 - [DOWNLOAD THE GAME !!](https://adityasahu.itch.io/a2a)
 
 
 ### Link 2 Unlink
+<img width="503" alt="Link2Unlink" src="https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/f6428fb2-cf13-4436-9c1c-e996f5301809">
+
 
 - [DOWNLOAD THE GAME !!](https://gamecode3.itch.io/link-2-unlink)
 
 
 ### Repercussion
+![Repercussion](https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/3cc15049-7155-45f1-a970-6736f00ff91a)
 
 - [DOWNLOAD THE GAME !!](https://adityasahu.itch.io/repercussion)
 
 
 ### Strike 42
+<img width="388" alt="Strike42_1" src="https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/04088443-e3c3-4e0c-a585-54cff025e3f6">
 
 - [DOWNLOAD THE GAME !!](https://cg2d-iit-mandi.itch.io/strike-42)
