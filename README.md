@@ -30,7 +30,7 @@ git clone https://github.com/CodingWarrior33/Game-Scripts.git
 ### [A2A Flyers](https://adityasahu.itch.io/a2a)
 <img width="432" alt="A2A" src="https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/efc35fd4-0881-4691-81fc-eb39c8e4984c">
 
-### [Link 2 Unlink](https://gamecode3.itch.io/link-2-unlink)
+### [Link 2 Unlink](https://adityasahu.itch.io/link-2-unlink)
 <img width="503" alt="Link2Unlink" src="https://github.com/CodingWarrior33/Game-Scripts/assets/95586108/f6428fb2-cf13-4436-9c1c-e996f5301809">
 
 ### [Repercussion](https://adityasahu.itch.io/repercussion)
